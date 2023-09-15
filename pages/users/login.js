@@ -18,8 +18,8 @@ export const getServerSideProps = authPages(async(context)=>{
   const uSession = req.session
   let csrfToken = req.csrfToken()
   let resObj = {}
+  await uSession.save()
   if(!uSession.hasOwnProperty('Usr')){
-    await uSession.save()
     resObj = {
       props:{
         csrfToken: csrfToken
