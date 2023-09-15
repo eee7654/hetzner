@@ -1,0 +1,46 @@
+{
+  "name": "hetzner",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^4.22.8",
+    "axios": "latest",
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.9.1",
+    "cookies": "^0.8.0",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "formidable": "latest",
+    "generate-password": "latest",
+    "iron-session": "latest",
+    "jalali-moment": "latest",
+    "knex": "^2.2.0",
+    "next": "latest",
+    "next-connect": "latest",
+    "nextjs-progressbar": "latest",
+    "objection": "latest",
+    "react": "18.2.0",
+    "react-bootstrap": "latest",
+    "react-bs-datatable": "^3.6.0-alpha.0",
+    "react-data-table-component": "^7.5.2",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "18.2.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-select": "^5.7.0",
+    "react-toastify": "^9.1.3",
+    "simple-body-validator": "^1.2.4",
+    "sqlite3": "^5.1.4",
+    "sweetalert2": "^11.4.8"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.1"
+  }
+}

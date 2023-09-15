@@ -1,0 +1,5 @@
+.mapView {
+    width: 100%;
+    min-height: 25rem;
+    border-radius: 0.5rem;
+}

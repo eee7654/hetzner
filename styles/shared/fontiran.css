@@ -1,0 +1,71 @@
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../../public/admins/fonts/iransansxfnthin.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnthin.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../../public/admins/fonts/iransansxfnultralight.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnultralight.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../../public/admins/fonts/iransansxfnlight.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnlight.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../../public/admins/fonts/iransansxfnmedium.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnmedium.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 600;
+	src: url('../../public/admins/fonts/iransansxfndemibold.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfndemibold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../../public/admins/fonts/iransansxfnextrabold.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnextrabold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../../public/admins/fonts/iransansxfnblack.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnblack.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../../public/admins/fonts/iransansxfnbold.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnbold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: iransansx;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../../public/admins/fonts/iransansxfnregular.woff') format('woff'),
+	url('../../public/admins/fonts/iransansxfnregular.woff2') format('woff2');
+}
